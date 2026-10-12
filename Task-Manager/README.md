@@ -1,16 +1,15 @@
-Task Manager
+## Task Manager
 
-A simple Laravel-based Task Manager.
 
-Project Information
 
-Project Code: WST21-PM-2026-SF
-Student Name: Johnrey Rubio
-Course & Year: BSIT 2nd Year
-Database Used: SQLite 
+## Project Information
 
-Features
+## Project Code: WST21-PM-2026-SF
+## Student Name: Johnrey Rubio
+## Course & Year: BSIT 2nd Year
+## Database Used: SQLite 
 
+## Featres 
 ✓ Add Task
 ✓ View Tasks
 ✓ Edit Task
